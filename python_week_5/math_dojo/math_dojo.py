@@ -1,5 +1,3 @@
-## PART I ##
-
 class MathDojo(object):
 	def __init__(self):
 		self.result = 0
